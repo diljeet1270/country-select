@@ -1,0 +1,9 @@
+.country-item {
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .country-item:hover {
+    background-color: #ccc;
+  }
+  
